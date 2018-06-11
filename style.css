@@ -1,0 +1,50 @@
+h1{
+    weight: 20em;
+    color : green;
+text-align: center;
+}
+table{
+    margin : auto;
+    height: 550px;
+    width: 550px;
+}
+td{
+border-color: purple;
+border-style: solid;
+text-align: center;
+background-size: cover;
+background-position: fixed;
+background-image: url(/home/yann/Images/70a9e54752b5d5627f4ebc0e3582bbb5.png);
+}
+body{
+    background-image: url(/home/yann/Images/51346_funny_cat_playing_with_lightning.jpg);
+    background-size: cover;
+}
+td:active{
+}
+.c1{
+background-image: url(img/cat1.jpg);
+visibility: hidden;
+}
+.c2{
+background-image: url(img/cat2.png);
+float: center;
+}
+.c3{
+background-image: url(img/cat3.jpg);
+}
+.c4{
+background-image: url(img/cat4.jpg);
+}
+.c5{
+background-image: url(img/cat5.jpg);
+}
+.c6{
+background-image: url(img/cat6.jpg);
+}
+.c7{
+background-image: url(img/cat7.jpeg);
+}
+.c8{
+background-image: url(img/cat8.jpg);
+}
